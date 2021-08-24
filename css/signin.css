@@ -40,11 +40,11 @@
 }
 
 .signin__card form {
-  padding: 30px 2ppx;
+  padding: 30px 22px;
 }
 
 .signin__card form input {
-    width: 100%;
+  width: 100%;
   margin-bottom: 12px;
   padding: 15px;
   border: 1px solid #ddd;
